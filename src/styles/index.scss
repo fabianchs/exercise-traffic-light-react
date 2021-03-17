@@ -1,5 +1,19 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
+#contenedor{
+    width: 200px;
+    height: 400px;
+}
+#luz{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50%;
+    padding-top: 25px;
+}
+#separar{
+    padding-top: 25px;
+}
 /* 
 
     You can write your own styles here...
